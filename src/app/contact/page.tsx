@@ -1,7 +1,5 @@
 "use client";
 import { BackgroundBeams } from "../../components/ui/background-beams";
-import { Label } from "../../components/ui/label";
-import { Input } from "../../components/ui/input";
 import {Meteors} from "../../components/ui/meteors";
 import { cn } from "@/utils/cn";
 
@@ -19,7 +17,7 @@ function page() {
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-        Hello 👋 Want to connect? I offer reliable communication solutions for your inquiries, feedback, or collaborations. Whether you're seeking tech opportunities or just want to chat, I've got you covered.
+        Hello 👋 Want to connect? I offer reliable communication solutions for your inquiries, feedback, or collaborations. Whether you&apos;re seeking tech opportunities or just want to chat, I&apos;ve got you covered.
         </p>
         <form
           action="mailto:piyushnayak878@gmail.com"
