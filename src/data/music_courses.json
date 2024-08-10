@@ -2,6 +2,18 @@
   "courses": [
     {
       "id": 1,
+      "title": "Aviation Microservices API",
+      "slug": "guitar-fundamentals",
+      "description": "Airline managemnet and flight booking system based on microservices architecture",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "github": "https://github.com/piyush932/Flight-Service-API",
+      "livelink": "https://documenter.getpostman.com/view/31979006/2sA3kUG2Ez#5ce53c23-fd76-4a0a-83e3-6d5d77b94995",
+      "image": "/images/flight.jpg"
+    },
+    {
+      "id": 2,
       "title": "IIIT BLOG",
       "slug": "guitar-fundamentals",
       "description": "MERN based Full-Stack Application",
@@ -13,7 +25,7 @@
       "image": "/images/iiit-blog (2).png"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Whatsapp-Chat-Analysis",
       "slug": "piano-for-beginners",
       "description": "Streamlit WhatsApp analyzer provides group chat insights and statistics.",
@@ -25,7 +37,19 @@
       "image": "/images/app-·-Streamlit.png"
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "Movie-Recommender-System",
+      "slug": "piano-for-beginners",
+      "description": "Predictive model for user-specific movie recommendations.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "github": "https://github.com/piyush932/Movie-Recommender-System",
+      "livelink": "https://movie-recommender-system-jhau.onrender.com",
+      "image": "/images/movie-recommender-system.png"
+    },
+    {
+      "id": 5,
       "title": "Music-School",
       "slug": "React-Redux based Movie Site with OpenAI -API Recommendation and Yt Embedded Trailer Systerm",
       "description": "A NextJS music school app having great UI showcasing various courses ,webinars,instructors for music learning enthusiasts .",
@@ -37,7 +61,7 @@
       "image": "/images/Create-Next-App.png"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Moviesverse",
       "slug": "drumming-mastery",
       "description": "Moviesverse website uses useEffect for data fetching, and custom hooks to manage state, providing an efficient and dynamic user experience.",
@@ -49,7 +73,7 @@
       "image": "/images/usePopcorn.png"
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "Meme-Generator",
       "slug": "jazz-improvisation",
       "description": "Moviesverse website leverages useEffect for efficient data fetching and custom hooks for state management, providing a seamless, dynamic user experience for browsing and discovering movies.",

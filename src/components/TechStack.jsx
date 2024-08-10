@@ -15,6 +15,7 @@ import PostGre from "../../public/techstack/PostGre.png";
 import React from "../../public/techstack/React.png";
 import Tailwind from "../../public/techstack/Tailwind.png";
 import Typescript from "../../public/techstack/Typescript.png";
+import MySQL from "../../public/techstack/logo-mysql-170x115.png";
 
 const techstack = [
   {
@@ -67,11 +68,11 @@ const techstack = [
     name: "Tailwind",
     image: Tailwind,
   },
-//   {
-//     id: 10,
-//     name: "PostGre",
-//     image: PostGre,
-//   },
+  {
+    id: 10,
+    name: "MySQL",
+    image: MySQL,
+  },
 //   {
 //     id: 11,
 //     name: "graphQL",
